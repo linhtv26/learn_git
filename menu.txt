@@ -1,6 +1,3 @@
 Apple Pie
 Cheesecake
-
-
-Main 1
-Main 2
+Fix confilict: main 2 & spagetti 1
